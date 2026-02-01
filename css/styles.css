@@ -120,7 +120,10 @@ a:not(.logo):focus  {
 
 
 .section-hero {
-    background-color: #2E2F42;
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(./../images/hero-background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     padding-top: 188px;
     padding-bottom: 188px;
 }
