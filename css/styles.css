@@ -73,7 +73,7 @@ a {
 .nav-link {
     display: block;
     position: relative;
-    padding: 24px 0;
+    padding: 24px 0 25px;
     color: #2E2F42;
     font-weight: 500;
     font-size: 16px;
@@ -264,7 +264,7 @@ p {
 
 
 .section-title {
-    padding-bottom: 72px;
+    margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11111;
     letter-spacing: 0.02em;
@@ -286,7 +286,7 @@ p {
 
 
 .team-list-heading {
-    padding-bottom: 8px;
+    margin-bottom: 8px;
 }
 
 
@@ -378,7 +378,7 @@ p {
 }
 
 .portfolio-text {
-    padding-top: 8px;
+    margin-top: 8px;
 }
 
 
